@@ -2,7 +2,7 @@
 
 | Regressor        |   |   |
 |------------------|---|---|
-| danceability     |   |   |
+| danceability     |  0 | 1  |
 | energy           |   |   |
 | key              |   |   |
 | loudness         |   |   |
